@@ -53,7 +53,7 @@ body {
 }
 
 .clickable {
-  color: rgb(68, 61, 61);
+  color: rgb(93, 115, 215);
   cursor: pointer;
   user-select: none;
 }
